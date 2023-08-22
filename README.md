@@ -1,7 +1,8 @@
-### Olá, meu nome é Érick Oliveira - Desenvolvedor Front End 👋
+# Olá, meu nome é Érick Oliveira - Desenvolvedor Front End 👋
 
-[![Porfolio](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin)](www.linkedin.com/in/erick-oliveira-mesquita)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin)](https://www.linkedin.com/in/erick-oliveira-mesquita)
 [![Porfolio](https://img.shields.io/badge/erick_oliveira-.dev-FFF)](https://erick-oliveira-dev.vercel.app/)
+[![E-mail](https://img.shields.io/badge/eoliveiram94@gmail.com-D14836?logo=gmail&logoColor=white)]()
 
 <br/>
 
@@ -21,7 +22,8 @@
 
 <p>Atualmente estou em busca de oportunidades na área de desenvolvimento Front End, com foco em React.JS. Também busco oportunidades para desenvolvimento Back End usando Python Flask, principalmente na construção de APIs.</p>
 
-<p>Aprendo rápido e posso trabalhar com qualquer nova tecnologia que eu precisar conhecer.</p>
+<p>Possuo facilidade no aprendizado e posso trabalhar com qualquer nova tecnologia que eu precisar conhecer.</p>
+
 
 <!--
 **kyevat94/kyevat94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
